@@ -7,7 +7,7 @@
 /* banner styling start */
 .banner-container{
     max-width: 100%;
-    max-height: 620px;
+    max-height: 600px;
     background-image: url(assets/Hero-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
@@ -295,14 +295,15 @@ margin:  auto;
 iframe{
     border-radius: 16px;
 }
+/* my inspiration end */
 
-/* my target star */
+/* my target start */
 .my-target{
     width: 1140px;
 height: 462px;
 margin: 0 auto;
 margin-top: 150px;
-margin-bottom: 100px;
+margin-bottom: 180px;
 }
 .target-content{
     width: 946px;
@@ -407,6 +408,9 @@ margin-bottom: 24px;
     text-decoration-line: underline;
     
 }
+/* my target end */
+
+/* /support section start */
 .support{
     width: 1140px;
 height: 314px;
@@ -418,6 +422,7 @@ background-position: center;
 background-size: cover;
 background-color:  rgba(56, 46, 46, 0.7);
 background-blend-mode: overlay;
+margin-bottom: 200px;
 }
 .support-all{
     width: 1044px;
@@ -502,6 +507,10 @@ letter-spacing: 0%;
 text-align: center;
 cursor: pointer;
 }
+
+/* support section end */
+
+/* footer start */
 footer{
     margin-top: 79px;
     height: 100px;
@@ -528,3 +537,4 @@ line-height: 23px;
 letter-spacing: 0%;
 text-align: center;
 }
+/* footer end */
