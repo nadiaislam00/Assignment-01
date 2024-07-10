@@ -189,6 +189,7 @@ letter-spacing: 0%;
 text-align: center;
 background-color: white;
 margin-top: 25px;
+cursor: pointer;
 }
 .content-2 .main-content{
     margin-left: 48.8px;
